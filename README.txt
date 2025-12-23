@@ -70,7 +70,7 @@ README - Машинное обучение: Bank Marketing
 6. Установка и запуск
 
 1. Клонировать репозиторий:
-   git clone <ссылка на GitHub>
+   git clone <https://github.com/Ariq-crear/-1/blob/main/README.txt>
 
 2. Установить зависимости:
    pip install -r requirements.txt
@@ -96,4 +96,5 @@ README - Машинное обучение: Bank Marketing
 - Random Forest использован для сравнения
 - Метрики считаются с использованием sklearn (разрешено ТЗ)
 - Эксперименты с learning rate и epochs показаны в интерактивном интерфейсе
+
 - Интерфейс полностью рабочий в Google Colab
